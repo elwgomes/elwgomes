@@ -3,8 +3,8 @@
 <p><em>I'm a computer engineering student and an aspiring java developer.</em></p>
 
 <p align = left> Language and skills: </p>
-<img align="center" alt="Leo-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<img align="center" alt="Leo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+
+<p><img align="center" alt="Leo-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> <img align="center" alt="Leo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </p>
 
                     
                     

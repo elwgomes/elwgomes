@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>hi, i'm Leonardo x)</h1>
 
-<!--
-**elwgomes/elwgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>I'm a computer engineering student and an aspiring java developer.</em></p>
 
-Here are some ideas to get you started:
+<p align = left> Language and skills: </p>
+<img align="center" alt="Leo-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+<img align="center" alt="Leo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                    
+                    
+Find me:
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skolzinn)
+<a href="https://www.twitch.tv/skolzinn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/elwgomes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:elwgomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div align="left">
+  <a href="https://github.com/elwgomes" target = "_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elwgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>

@@ -4,8 +4,8 @@
 
 <p align = left> Language and skills: </p>
 
-<p><img align="center" alt="Leo-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<!-- <img align="center" alt="Leo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </p> -->
+<p><img align="center" alt="Leo-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></p>
+<!-- <img align="center" alt="Leo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 
                     
                     

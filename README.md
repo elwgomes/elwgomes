@@ -1,6 +1,6 @@
 <h1>hello there (:</h1>
 
-<p><em>I'm a computer engineering student and an aspiring java developer.</em></p>
+<p><em>My name is Leonardo and i'm a computer engineering student and an aspiring java developer.</em></p>
 
 <p align = left> Language and skills: </p>
 

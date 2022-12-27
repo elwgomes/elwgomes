@@ -1,4 +1,4 @@
-<h1>hi, i'm Leonardo x)</h1>
+<h1>hello there (:</h1>
 
 <p><em>I'm a computer engineering student and an aspiring java developer.</em></p>
 

@@ -1,6 +1,6 @@
 <h1>hello there (:</h1>
 
-<p><em>Meu nome é Leonardo.</em></p>
+<!-- <p><em>Meu nome é Leonardo.</em></p> -->
 
 Atualmente estagiário no órgão estadual PROCON - AL;<br>
 Aprendendo sobre: linguagem Java com Spring Framework e todo seu ecossistema, TDD com jUnit e Mockito, Docker e AWS;<br>

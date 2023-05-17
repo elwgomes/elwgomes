@@ -2,7 +2,7 @@
 
 <p><em>Meu nome é Leonardo.</em></p>
 
-Atualmente Estagiário no PROCON - AL;<br>
+Atualmente estagiário no órgão estadual PROCON - AL;<br>
 Aprendendo sobre: linguagem Java com Spring Framework e todo seu ecossistema, TDD com jUnit e Mockito, Docker e AWS;<br>
 Graduando em Engenharia da Computação pela UMJ;<br>
 Experiência nas linguagens: Java;<br>

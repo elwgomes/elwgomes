@@ -2,11 +2,11 @@
 
 <p><em>Meu nome é Leonardo.</em></p>
 
-telescope Atualmente Estagiário no PROCON - AL;
-seedling Aprendendo sobre: linguagem Java com Spring Framework e todo seu ecossistema, TDD com jUnit e Mockito, Docker e AWS; 
-mortar_board Graduando em Engenharia da Computação pela UMJ;
-wrench Experiência nas linguagens: Java;
-wrench Experiência nos frameworks: Spring Boot;
+Atualmente Estagiário no PROCON - AL;<br>
+Aprendendo sobre: linguagem Java com Spring Framework e todo seu ecossistema, TDD com jUnit e Mockito, Docker e AWS;<br>
+Graduando em Engenharia da Computação pela UMJ;<br>
+Experiência nas linguagens: Java;<br>
+Experiência nos frameworks: Spring Boot;<br>
 <!-- <p align = left> Languages: </p> -->
 
 <p><img align="center" alt="Leo-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">

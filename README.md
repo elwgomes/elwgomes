@@ -2,13 +2,14 @@
 
 <p><em>My name is Leonardo, i'm a computer engineering student and an aspiring java developer.</em></p>
 
-<p align = left> Languages: </p>
+<!-- <p align = left> Languages: </p> -->
 
 <p><img align="center" alt="Leo-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<img align="center" alt="Leo-HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-<img align="center" alt="Leo-HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center" alt="Leo-Spring" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+<img align="center" alt="Leo-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </p> -->
-<!-- <img align="center" alt="Leo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+<img align="center" alt="Leo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Leo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
                     
                     

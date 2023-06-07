@@ -1,4 +1,4 @@
-<h1>hello there (: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1> 
+<h1>hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1> 
 <!-- <p><em>Meu nome é Leonardo.</em></p> -->
 
 Atualmente estagiário no órgão estadual PROCON - AL;<br>

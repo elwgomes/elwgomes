@@ -1,5 +1,4 @@
-<h1>hello there (:</h1>
-
+<h1>hello there (: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1> 
 <!-- <p><em>Meu nome é Leonardo.</em></p> -->
 
 Atualmente estagiário no órgão estadual PROCON - AL;<br>
@@ -16,7 +15,10 @@ Experiência nos frameworks: Spring Boot;<br>
 <img align="center" alt="Leo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p> 
 
-          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elwgomes&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elwgomes&layout=compact&show_icons=true&theme=transparent)
+
+
                     
 Find me:
 

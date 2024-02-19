@@ -1,26 +1,59 @@
-<h1>hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1> 
-<!-- <p><em>Meu nome é Leonardo.</em></p> -->
+# Leonardo Gomes 👨‍💻
 
-Atualmente Desenvolvedor FullStack Jr. na empresa Grupo Online;<br>
-Aprendendo sobre: linguagem Java com Spring Framework e todo seu ecossistema, Docker, TDD com jUnit e Mockito;<br>
-Graduando em Engenharia da Computação pela UMJ;<br>
-Experiência nas linguagens: Java;<br>
-Experiência nos frameworks: Spring Boot;<br>
-<!-- <p align = left> Languages: </p> -->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesleyosantos91)](https://github.com/elwgomes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyosantos91/)](https://www.linkedin.com/in/elwgomes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyosantos91@gmail.com)](mailto:contato.elwgomes@gmail.com/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561995511463&text=Olá!)](https://api.whatsapp.com/send?phone=5582996482893&text=Olá!)
 
-<p><img align="center" alt="Leo-Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<img align="center" alt="Leo-Spring" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-<img align="center" alt="Leo-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="center" alt="Leo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-<img align="center" alt="Leo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</p> 
+<p>
+  <img src="http://views.whatilearened.today/views/github/elwgomes/views.svg" />
+  <a href="https://github.com/wesleyosantos91/">
+    <img src="https://img.shields.io/github/followers/elwgomes?color=%234CC61E&label=GitHub%20Followers%20%3A" />
+  </a>
+  <a href="https://github.com/elwgomes?tab=repositories">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elwgomes&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elwgomes&layout=compact&show_icons=true&theme=transparent)
+<p>
+<!--   <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" /> -->
+  <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=openjdk&logoColor=orange&color=05122A" />
+  <img src="https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&color=05122A" />
+<!--   <img src="https://img.shields.io/badge/Backend-Kotlin-informational?style=flat&logo=kotlin&color=05122A" /> -->
+<!--   <img src="https://img.shields.io/badge/Cloud&nbsp;Public-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" /> -->
+  <img src="https://img.shields.io/badge/Cloud&nbsp;Private-Kubernetes-informational?style=flat&logo=kubernetes&color=05122A" />
+  <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=05122A" />
+</p>
 
+![Leonardo github stats](https://github-readme-stats.vercel.app/api?username=elwgomes&show_icons=true&theme=radical)
 
-                    
-Find me:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elwgomes&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://instagram.com/elwgomes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:elwgomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=elwgomes)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Olá 👋
+
+Sou desenvolvedor Java, amante de tecnologia e apaixonado por conhecimento.
+Sou curioso e entusiasta de novas tecnologias, busco sempre tendências de mercado e faço diversas pocs para estudo de novas tecnologias. 
+Meu hobby é praticar esportes (BJJ, Futsal) e assistir filmes de comédia.
+
+### Formações
+- 🎓 Graduando em Engenharia da Computação na UMJ (Centro Universitário Mario Pontes Jucá) - conclusão prevista para 2º/2024
+
+## Principais Habilidades
+- [x] Java | Spring | Java EE
+- [x] JUnit | Mockito
+- [x] Tomcat
+- [x] Swagger | OpenApi
+- [x] Restful | SOAP
+- [x] Angular | TypeScript | Angular JS | Javascript
+- [x] HTML | CSS
+- [x] Postgres | Oracle | SQL Server | MySQL
+- [x] Hibernate | H2 Database 
+- [x] Docker | Kubernetes | Jenkins | Git
+- [x] Eclipse | IntelliJ IDEA | VSCode | Postman | Insomnia | NeoVim
+- [x] Jira | Slack | Jazz
+- [x] Scrum
+- [x] Linux
+
+---

@@ -34,8 +34,8 @@
 ## Olá 👋
 
 Sou desenvolvedor Java, amante de tecnologia e apaixonado por conhecimento.
-Sou curioso e entusiasta de novas tecnologias, busco sempre tendências de mercado e faço diversas pocs para estudo de novas tecnologias. 
-Meu hobby é praticar esportes (BJJ, Futsal) e assistir filmes de comédia.
+Sou curioso e entusiasta de novas tecnologias, busco sempre tendências de mercado. 
+Meus hobby são praticar esportes (BJJ, Futsal) e assistir filmes de comédia.
 
 ### Formações
 - 🎓 Graduando em Engenharia da Computação na UMJ (Centro Universitário Mario Pontes Jucá) - conclusão prevista para 2º/2024

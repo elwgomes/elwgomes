@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Backend-ASP.NET-informational?style=flat&logo=csharp&color=05122A" />
 <!--   <img src="https://img.shields.io/badge/Backend-Kotlin-informational?style=flat&logo=kotlin&color=05122A" /> -->
 <!--   <img src="https://img.shields.io/badge/Cloud&nbsp;Public-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" /> -->
-  <img src="https://img.shields.io/badge/Cloud&nbsp;Private-Kubernetes-informational?style=flat&logo=kubernetes&color=05122A" />
+<!--  <img src="https://img.shields.io/badge/Cloud&nbsp;Private-Kubernetes-informational?style=flat&logo=kubernetes&color=05122A" /> -->
   <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=05122A" />
 </p>
 
